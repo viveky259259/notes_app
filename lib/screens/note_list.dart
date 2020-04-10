@@ -23,7 +23,7 @@ class NoteList extends StatelessWidget {
           }));
         },
         tooltip: "Add Note",
-        child: Icon(Icons.add),
+        child: Icon(Icons.add)
       ),
     );
   }
